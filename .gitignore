@@ -1,0 +1,3 @@
+django-chat/
+__pycache__/
+*.sqlite3
